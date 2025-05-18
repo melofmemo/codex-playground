@@ -1,4 +1,0 @@
-Total sales: 2350
-Mean sales: 195.83333333333334
-Max sales: 260
-Min sales: 100
