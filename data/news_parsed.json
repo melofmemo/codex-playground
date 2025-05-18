@@ -1,38 +1,62 @@
 [
   {
-    "title": "로보택시 조사 확대"
+    "date": "2025-05-12",
+    "src": "Source1",
+    "headline": "로보택시 조사 확대"
   },
   {
-    "title": "주가 움직임"
+    "date": "2025-05-13",
+    "src": "Source2",
+    "headline": "주가 움직임"
   },
   {
-    "title": "모델 Y 부분변경 주니퍼 출발 삐걱"
+    "date": "2025-05-14",
+    "src": "Source3",
+    "headline": "모델 Y 부분변경 주니퍼 출발 삐걱"
   },
   {
-    "title": "중국 부품 수입 재개"
+    "date": "2025-05-15",
+    "src": "Source4",
+    "headline": "중국 부품 수입 재개"
   },
   {
-    "title": "소프트웨어 Spring Update 분해"
+    "date": "2025-05-16",
+    "src": "Source5",
+    "headline": "소프트웨어 Spring Update 분해"
   },
   {
-    "title": "리스 차량 회수 매각 논란"
+    "date": "2025-05-17",
+    "src": "Source6",
+    "headline": "리스 차량 회수 매각 논란"
   },
   {
-    "title": "브랜드 이미지 타격"
+    "date": "2025-05-18",
+    "src": "Source7",
+    "headline": "브랜드 이미지 타격"
   },
   {
-    "title": "소송 문턱 상향"
+    "date": "2025-05-19",
+    "src": "Source8",
+    "headline": "소송 문턱 상향"
   },
   {
-    "title": "이사회 개편"
+    "date": "2025-05-20",
+    "src": "Source9",
+    "headline": "이사회 개편"
   },
   {
-    "title": "로보택시 운영 모드 공개"
+    "date": "2025-05-21",
+    "src": "Source10",
+    "headline": "로보택시 운영 모드 공개"
   },
   {
-    "title": "배터리 업데이트"
+    "date": "2025-05-22",
+    "src": "Source11",
+    "headline": "배터리 업데이트"
   },
   {
-    "title": "공장 증설 계획"
+    "date": "2025-05-23",
+    "src": "Source12",
+    "headline": "공장 증설 계획"
   }
 ]
