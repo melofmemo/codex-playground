@@ -1,38 +1,52 @@
 [
   {
-    "title": "로보택시 조사 확대"
+    "date": "2025-05-16",
+    "headline": "이사회 개편",
+    "src": "Reuters"
   },
   {
-    "title": "주가 움직임"
+    "date": "2025-05-16",
+    "headline": "로보택시 운영 모드 공개",
+    "src": "Electrek"
   },
   {
-    "title": "모델 Y 부분변경 주니퍼 출발 삐걱"
+    "date": "2025-05-15",
+    "headline": "리스 차량 회수‧매각 논란",
+    "src": "Reuters"
   },
   {
-    "title": "중국 부품 수입 재개"
+    "date": "2025-05-15",
+    "headline": "브랜드 이미지 타격",
+    "src": "Electrek"
   },
   {
-    "title": "소프트웨어 Spring Update 분해"
+    "date": "2025-05-15",
+    "headline": "소송 문턱 상향",
+    "src": "블룸버그"
   },
   {
-    "title": "리스 차량 회수 매각 논란"
+    "date": "2025-05-14",
+    "headline": "중국 부품 수입 재개",
+    "src": "Reuters"
   },
   {
-    "title": "브랜드 이미지 타격"
+    "date": "2025-05-14",
+    "headline": "소프트웨어 (Spring Update) 분해",
+    "src": "Not A Tesla App"
   },
   {
-    "title": "소송 문턱 상향"
+    "date": "2025-05-13",
+    "headline": "모델 Y 부분변경 ‘주니퍼’ 출발 삐걱",
+    "src": "Reuters"
   },
   {
-    "title": "이사회 개편"
+    "date": "2025-05-12",
+    "headline": "로보택시 조사 확대",
+    "src": "Reuters"
   },
   {
-    "title": "로보택시 운영 모드 공개"
-  },
-  {
-    "title": "배터리 업데이트"
-  },
-  {
-    "title": "공장 증설 계획"
+    "date": "2025-05-12",
+    "headline": "주가 움직임",
+    "src": "Investopedia"
   }
 ]
