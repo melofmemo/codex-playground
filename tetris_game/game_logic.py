@@ -3,10 +3,10 @@ from typing import Optional
 
 import numpy as np
 
-from .board import Board
-from .block import Tetromino
-from .config import TETROMINOES, TETROMINO_COLORS
-from .game_state import GameState
+from tetris_game.board import Board
+from tetris_game.block import Tetromino
+from tetris_game.config import TETROMINOES, TETROMINO_COLORS
+from tetris_game.game_state import GameState
 
 
 class GameLogic:

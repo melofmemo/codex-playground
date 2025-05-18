@@ -4,8 +4,8 @@ from typing import List
 
 import numpy as np
 
-from .block import Tetromino
-from .config import BOARD_WIDTH, BOARD_HEIGHT
+from tetris_game.block import Tetromino
+from tetris_game.config import BOARD_WIDTH, BOARD_HEIGHT
 
 
 class Board:

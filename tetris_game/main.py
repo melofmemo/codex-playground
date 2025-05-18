@@ -5,12 +5,12 @@ try:
 except Exception:  # pragma: no cover - pygame may not be available
     pygame = None
 
-from .board import Board
-from .game_state import GameState
-from .game_logic import GameLogic
-from .input_handler import InputHandler
-from .renderer import Renderer
-from .config import SCREEN_WIDTH, SCREEN_HEIGHT, FPS
+from tetris_game.board import Board
+from tetris_game.game_state import GameState
+from tetris_game.game_logic import GameLogic
+from tetris_game.input_handler import InputHandler
+from tetris_game.renderer import Renderer
+from tetris_game.config import SCREEN_WIDTH, SCREEN_HEIGHT, FPS
 
 
 def main() -> None:

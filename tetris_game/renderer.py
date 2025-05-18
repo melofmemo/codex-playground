@@ -5,7 +5,7 @@ try:
 except Exception:  # pragma: no cover - pygame may not be available
     pygame = None
 
-from .config import GRID_SIZE, COLORS
+from tetris_game.config import GRID_SIZE, COLORS
 
 
 class Renderer:
