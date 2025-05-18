@@ -1,62 +1,62 @@
 [
   {
     "date": "2025-05-12",
-    "src": "Source1",
-    "headline": "로보택시 조사 확대"
+    "headline": "로보택시 조사 확대",
+    "src": "Reuters"
+  },
+  {
+    "date": "2025-05-12",
+    "headline": "주가 움직임",
+    "src": "Investopedia"
   },
   {
     "date": "2025-05-13",
-    "src": "Source2",
-    "headline": "주가 움직임"
+    "headline": "모델 Y 부분변경 ‘주니퍼’ 출발 삐걱",
+    "src": "Reuters"
   },
   {
     "date": "2025-05-14",
-    "src": "Source3",
-    "headline": "모델 Y 부분변경 주니퍼 출발 삐걱"
+    "headline": "중국 부품 수입 재개",
+    "src": "Reuters"
+  },
+  {
+    "date": "2025-05-14",
+    "headline": "소프트웨어 (Spring Update) 분해",
+    "src": "Not A Tesla App"
   },
   {
     "date": "2025-05-15",
-    "src": "Source4",
-    "headline": "중국 부품 수입 재개"
+    "headline": "리스 차량 회수‧매각 논란",
+    "src": "Reuters"
+  },
+  {
+    "date": "2025-05-15",
+    "headline": "브랜드 이미지 타격",
+    "src": "Electrek"
+  },
+  {
+    "date": "2025-05-15",
+    "headline": "소송 문턱 상향",
+    "src": "블룸버그"
   },
   {
     "date": "2025-05-16",
-    "src": "Source5",
-    "headline": "소프트웨어 Spring Update 분해"
+    "headline": "이사회 개편",
+    "src": "Reuters"
   },
   {
-    "date": "2025-05-17",
-    "src": "Source6",
-    "headline": "리스 차량 회수 매각 논란"
-  },
-  {
-    "date": "2025-05-18",
-    "src": "Source7",
-    "headline": "브랜드 이미지 타격"
-  },
-  {
-    "date": "2025-05-19",
-    "src": "Source8",
-    "headline": "소송 문턱 상향"
-  },
-  {
-    "date": "2025-05-20",
-    "src": "Source9",
-    "headline": "이사회 개편"
-  },
-  {
-    "date": "2025-05-21",
-    "src": "Source10",
-    "headline": "로보택시 운영 모드 공개"
+    "date": "2025-05-16",
+    "headline": "로보택시 운영 모드 공개",
+    "src": "Electrek"
   },
   {
     "date": "2025-05-22",
-    "src": "Source11",
-    "headline": "배터리 업데이트"
+    "headline": "배터리 업데이트",
+    "src": "Source11"
   },
   {
     "date": "2025-05-23",
-    "src": "Source12",
-    "headline": "공장 증설 계획"
+    "headline": "공장 증설 계획",
+    "src": "Source12"
   }
 ]
